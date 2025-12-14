@@ -2,62 +2,70 @@
 
 ### A passionate frontend developer from Serbia 🇷🇸
 
-- 🔭 I'm currently working on: **a portfolio project for an architect, built with React, TypeScript, Tailwind CSS, and Sanity CMS.**
+* 🔭 I'm currently working on: **a portfolio project for an architect, built with React, TypeScript, Tailwind CSS, and Sanity CMS**
+* 🌱 I'm currently learning: **C# and WebSockets**
+* 👯 I'm looking to collaborate on: **open source projects**
+* 📫 How to reach me: **[vule.stankovic2@gmail.com](mailto:vule.stankovic2@gmail.com)**
+* 📋 CV: **[View CV](https://drive.google.com/file/d/1lbsK8t-xrxTEIF8kGJw2_O1MI8z8pSeJ/view?usp=sharing)**
 
-- 🌱 I'm currently learning: **C# and websockets**
+---
 
-- 👯 I'm looking to collaborate on: **open source projects**
+### 🌐 Connect with me
 
-- 📫 How to reach me **vule.stankovic2@gmail.com**
-
-- 📋 CV **[https://drive.google.com/file/d/1lbsK8t-xrxTEIF8kGJw2_O1MI8z8pSeJ/view?usp=sharing](https://drive.google.com/file/d/1lbsK8t-xrxTEIF8kGJw2_O1MI8z8pSeJ/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/VukasinStankovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="VukasinStankovic" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vukašin-stanković" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vukašin-stanković" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18493282 /Vukasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18493282 /Vukasin" height="30" width="40" /></a>
+  <a href="https://github.com/VukasinStankovic" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/vukašin-stanković" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/18493282/Vukasin" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🧰 Languages and Tools
+
 <p align="left">
   <!-- Core -->
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss"/>
+  <img src="https://img.shields.io/badge/JavaScript-JS?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-TS?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/React-React?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Tailwind-Tailwind?style=flat&logo=tailwindcss" />
 
   <!-- Styling -->
-  <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap"/>
+
+  <img src="https://img.shields.io/badge/Bootstrap-Bootstrap?style=flat&logo=bootstrap" />
 
   <!-- CMS -->
-  <img src="https://img.shields.io/badge/Sanity-000?style=for-the-badge&logo=sanity"/>
+
+  <img src="https://img.shields.io/badge/Sanity-Sanity?style=flat&logo=sanity" />
 
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle&logoColor=red"/>
+
+  <img src="https://img.shields.io/badge/MongoDB-MongoDB?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-MySQL?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/Oracle-Oracle?style=flat&logo=oracle" />
 
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman"/>
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/Chart.js-000?style=for-the-badge&logo=chartdotjs"/>
-  <img src="https://img.shields.io/badge/Android_Studio-000?style=for-the-badge&logo=androidstudio"/>
+
+  <img src="https://img.shields.io/badge/Git-Git?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/Postman-Postman?style=flat&logo=postman" />
+  <img src="https://img.shields.io/badge/Linux-Linux?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/Chart.js-Chart.js?style=flat&logo=chartdotjs" />
+  <img src="https://img.shields.io/badge/Android_Studio-Android_Studio?style=flat&logo=androidstudio" />
 </p>
 
+---
 
+### 📊 GitHub Stats
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VukasinStankovic&layout=compact&hide_border=true" />
+</p>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=VukasinStankovic&show_icons=true&hide_border=true"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=VukasinStankovic&layout=compact&hide_border=true"
-/>
-
-
-
-
-
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VukasinStankovic&show_icons=true&hide_border=true" />
+</p>

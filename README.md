@@ -30,33 +30,109 @@
 
 <p align="left">
   <!-- Core -->
-  <img src="https://img.shields.io/badge/JavaScript-JS?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-TS?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/React-React?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Tailwind-Tailwind?style=flat&logo=tailwindcss" />
+  <a href="#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/JavaScript-JS?style=flat&logo=javascript&color=F7DF1E" />
+  </a>
+  <a href="#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/JavaScript-JS?style=flat&logo=javascript&color=000000" />
+  </a>
+
+  <a href="#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/TypeScript-TS?style=flat&logo=typescript&color=007ACC" />
+  </a>
+  <a href="#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/TypeScript-TS?style=flat&logo=typescript&color=000000" />
+  </a>
+
+  <a href="#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/React-React?style=flat&logo=react&color=61DAFB" />
+  </a>
+  <a href="#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/React-React?style=flat&logo=react&color=000000" />
+  </a>
+
+  <a href="#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/Tailwind-Tailwind?style=flat&logo=tailwindcss&color=38B2AC" />
+  </a>
+  <a href="#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/Tailwind-Tailwind?style=flat&logo=tailwindcss&color=000000" />
+  </a>
 
   <!-- Styling -->
-
-  <img src="https://img.shields.io/badge/Bootstrap-Bootstrap?style=flat&logo=bootstrap" />
+  <a href="#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/Bootstrap-Bootstrap?style=flat&logo=bootstrap&color=7952B3" />
+  </a>
+  <a href="#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/Bootstrap-Bootstrap?style=flat&logo=bootstrap&color=000000" />
+  </a>
 
   <!-- CMS -->
-
-  <img src="https://img.shields.io/badge/Sanity-Sanity?style=flat&logo=sanity" />
+  <a href="#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/Sanity-Sanity?style=flat&logo=sanity&color=FF1A1A" />
+  </a>
+  <a href="#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/Sanity-Sanity?style=flat&logo=sanity&color=000000" />
+  </a>
 
   <!-- Databases -->
+  <a href="#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/MongoDB-MongoDB?style=flat&logo=mongodb&color=47A248" />
+  </a>
+  <a href="#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/MongoDB-MongoDB?style=flat&logo=mongodb&color=000000" />
+  </a>
 
-  <img src="https://img.shields.io/badge/MongoDB-MongoDB?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/MySQL-MySQL?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/Oracle-Oracle?style=flat&logo=oracle" />
+  <a href="#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/MySQL-MySQL?style=flat&logo=mysql&color=4479A1" />
+  </a>
+  <a href="#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/MySQL-MySQL?style=flat&logo=mysql&color=000000" />
+  </a>
+
+  <a href="#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/Oracle-Oracle?style=flat&logo=oracle&color=FF0000" />
+  </a>
+  <a href="#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/Oracle-Oracle?style=flat&logo=oracle&color=000000" />
+  </a>
 
   <!-- Tools -->
+  <a href="#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/Git-Git?style=flat&logo=git&color=F05032" />
+  </a>
+  <a href="#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/Git-Git?style=flat&logo=git&color=000000" />
+  </a>
 
-  <img src="https://img.shields.io/badge/Git-Git?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/Postman-Postman?style=flat&logo=postman" />
-  <img src="https://img.shields.io/badge/Linux-Linux?style=flat&logo=linux" />
-  <img src="https://img.shields.io/badge/Chart.js-Chart.js?style=flat&logo=chartdotjs" />
-  <img src="https://img.shields.io/badge/Android_Studio-Android_Studio?style=flat&logo=androidstudio" />
+  <a href="#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/Postman-Postman?style=flat&logo=postman&color=FF6C37" />
+  </a>
+  <a href="#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/Postman-Postman?style=flat&logo=postman&color=000000" />
+  </a>
+
+  <a href="#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/Linux-Linux?style=flat&logo=linux&color=FCC624" />
+  </a>
+  <a href="#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/Linux-Linux?style=flat&logo=linux&color=000000" />
+  </a>
+
+  <a href="#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/Chart.js-Chart.js?style=flat&logo=chartdotjs&color=FF6384" />
+  </a>
+  <a href="#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/Chart.js-Chart.js?style=flat&logo=chartdotjs&color=000000" />
+  </a>
+
+  <a href="#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/Android_Studio-Android_Studio?style=flat&logo=androidstudio&color=3DDC84" />
+  </a>
+  <a href="#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/Android_Studio-Android_Studio?style=flat&logo=androidstudio&color=000000" />
+  </a>
 </p>
+
 
 ---
 
@@ -83,5 +159,6 @@
     alt="Most Used Languages"
   />
 </a>
+
 
 

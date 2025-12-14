@@ -30,12 +30,13 @@
 
 <p align="left">
   <!-- Core -->
-  <a href="#gh-light-mode-only">
-    <img src="https://img.shields.io/badge/JavaScript-JS?style=flat&logo=javascript&color=F7DF1E" />
-  </a>
-  <a href="#gh-dark-mode-only">
-    <img src="https://img.shields.io/badge/JavaScript-JS?style=flat&logo=javascript&color=000000" />
-  </a>
+<a href="#gh-light-mode-only">
+  <img src="https://img.shields.io/badge/JavaScript-JS?style=flat&logo=javascript&color=ffffff" />
+</a>&nbsp;
+<a href="#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/JavaScript-JS?style=flat&logo=javascript&color=000000" />
+</a>&nbsp;
+
 
   <a href="#gh-light-mode-only">
     <img src="https://img.shields.io/badge/TypeScript-TS?style=flat&logo=typescript&color=007ACC" />
@@ -159,6 +160,7 @@
     alt="Most Used Languages"
   />
 </a>
+
 
 
 

@@ -2,11 +2,7 @@
 
 ### A passionate frontend developer from Serbia 🇷🇸
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VukasinStankovic&label=Profile views&color=0e75b6&style=flat" alt="VukasinStankovic" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VukasinStankovic" alt="VukasinStankovic" /></a> </p>
-
-- 🔭 I'm currently working on: ** a portfolio project for an architect, built with React, TypeScript, Tailwind CSS, and Sanity CMS.**
+- 🔭 I'm currently working on: **a portfolio project for an architect, built with React, TypeScript, Tailwind CSS, and Sanity CMS.**
 
 - 🌱 I'm currently learning: **C# and websockets**
 
@@ -57,7 +53,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VukasinStankovic&show_icons=true&locale=en" alt="VukasinStankovic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VukasinStankovic&" alt="VukasinStankovic" /></p>
 
 
 

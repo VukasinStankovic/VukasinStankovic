@@ -70,3 +70,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VukasinStankovic&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
 
+<a href="https://github.com/VukasinStankovic#gh-light-mode-only">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=VukasinStankovic&layout=compact&theme=graywhite#gh-light-mode-only"
+    alt="Most Used Languages"
+  />
+</a>
+
+<a href="https://github.com/VukasinStankovic#gh-dark-mode-only">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=VukasinStankovic&layout=compact&theme=city_lights#gh-dark-mode-only"
+    alt="Most Used Languages"
+  />
+</a>
+
+

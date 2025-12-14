@@ -62,10 +62,11 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VukasinStankovic&layout=compact&hide_border=true" />
-</p>
+<a href="https://github.com/VukasinStankovic#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=VukasinStankovic&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
+</a>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VukasinStankovic&show_icons=true&hide_border=true" />
-</p>
+<a href="https://github.com/VukasinStankovic#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=VukasinStankovic&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
+

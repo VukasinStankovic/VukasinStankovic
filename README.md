@@ -25,61 +25,32 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Core frontend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-  </a>
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss"/>
 
-  <!-- Styling & UI -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
-  </a>
+  <!-- Styling -->
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap"/>
 
   <!-- CMS -->
-  <a href="https://www.sanity.io/docs" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sanity" alt="sanity" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Sanity-000?style=for-the-badge&logo=sanity"/>
 
   <!-- Databases -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle"/>
 
   <!-- Tools -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Chart.js-000?style=for-the-badge&logo=chartdotjs"/>
+  <img src="https://img.shields.io/badge/Android_Studio-000?style=for-the-badge&logo=androidstudio"/>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VukasinStankovic&show_icons=true&locale=en&layout=compact" alt="VukasinStankovic" /></p>
@@ -87,4 +58,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VukasinStankovic&show_icons=true&locale=en" alt="VukasinStankovic" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VukasinStankovic&" alt="VukasinStankovic" /></p>
+
 

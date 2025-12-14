@@ -49,9 +49,14 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VukasinStankovic&show_icons=true&locale=en&layout=compact" alt="VukasinStankovic" /></p>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=VukasinStankovic&show_icons=true&hide_border=true"
+/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VukasinStankovic&show_icons=true&locale=en" alt="VukasinStankovic" /></p>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=VukasinStankovic&layout=compact&hide_border=true"
+/>
+
 
 
 

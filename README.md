@@ -27,55 +27,50 @@
 ---
 
 ### 🧰 Languages and Tools
-
 ### 🧰 Languages and Tools
 <p align="left" style="display:flex; flex-wrap:wrap; gap:4px;">
 
-  <!-- Core -->
-  <span><a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/JavaScript-JS?style=flat&logo=javascript&color=ffffff" /></a>
-  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/JavaScript-JS?style=flat&logo=javascript&color=000000" /></a></span>
+  <a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/JavaScript-JS?style=flat&logo=javascript&color=ffffff" /></a>
+  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/JavaScript-JS?style=flat&logo=javascript&color=000000" /></a>
 
-  <span><a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/TypeScript-TS?style=flat&logo=typescript&color=ffffff" /></a>
-  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/TypeScript-TS?style=flat&logo=typescript&color=000000" /></a></span>
+  <a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/TypeScript-TS?style=flat&logo=typescript&color=ffffff" /></a>
+  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/TypeScript-TS?style=flat&logo=typescript&color=000000" /></a>
 
-  <span><a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/React-React?style=flat&logo=react&color=ffffff" /></a>
-  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/React-React?style=flat&logo=react&color=000000" /></a></span>
+  <a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/React-React?style=flat&logo=react&color=ffffff" /></a>
+  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/React-React?style=flat&logo=react&color=000000" /></a>
 
-  <span><a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Tailwind-Tailwind?style=flat&logo=tailwindcss&color=ffffff" /></a>
-  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Tailwind-Tailwind?style=flat&logo=tailwindcss&color=000000" /></a></span>
+  <a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Tailwind-Tailwind?style=flat&logo=tailwindcss&color=ffffff" /></a>
+  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Tailwind-Tailwind?style=flat&logo=tailwindcss&color=000000" /></a>
 
-  <!-- Styling -->
-  <span><a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Bootstrap-Bootstrap?style=flat&logo=bootstrap&color=ffffff" /></a>
-  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Bootstrap-Bootstrap?style=flat&logo=bootstrap&color=000000" /></a></span>
+  <a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Bootstrap-Bootstrap?style=flat&logo=bootstrap&color=ffffff" /></a>
+  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Bootstrap-Bootstrap?style=flat&logo=bootstrap&color=000000" /></a>
 
-  <!-- CMS -->
-  <span><a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Sanity-Sanity?style=flat&logo=sanity&color=ffffff" /></a>
-  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Sanity-Sanity?style=flat&logo=sanity&color=000000" /></a></span>
+  <a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Sanity-Sanity?style=flat&logo=sanity&color=ffffff" /></a>
+  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Sanity-Sanity?style=flat&logo=sanity&color=000000" /></a>
 
-  <!-- Databases -->
-  <span><a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/MongoDB-MongoDB?style=flat&logo=mongodb&color=ffffff" /></a>
-  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/MongoDB-MongoDB?style=flat&logo=mongodb&color=000000" /></a></span>
+  <a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/MongoDB-MongoDB?style=flat&logo=mongodb&color=ffffff" /></a>
+  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/MongoDB-MongoDB?style=flat&logo=mongodb&color=000000" /></a>
 
-  <span><a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/MySQL-MySQL?style=flat&logo=mysql&color=ffffff" /></a>
-  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/MySQL-MySQL?style=flat&logo=mysql&color=000000" /></a></span>
+  <a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/MySQL-MySQL?style=flat&logo=mysql&color=ffffff" /></a>
+  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/MySQL-MySQL?style=flat&logo=mysql&color=000000" /></a>
 
-  <!-- Tools -->
-  <span><a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Git-Git?style=flat&logo=git&color=ffffff" /></a>
-  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Git-Git?style=flat&logo=git&color=000000" /></a></span>
+  <a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Git-Git?style=flat&logo=git&color=ffffff" /></a>
+  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Git-Git?style=flat&logo=git&color=000000" /></a>
 
-  <span><a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Postman-Postman?style=flat&logo=postman&color=ffffff" /></a>
-  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Postman-Postman?style=flat&logo=postman&color=000000" /></a></span>
+  <a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Postman-Postman?style=flat&logo=postman&color=ffffff" /></a>
+  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Postman-Postman?style=flat&logo=postman&color=000000" /></a>
 
-  <span><a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Linux-Linux?style=flat&logo=linux&color=ffffff" /></a>
-  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Linux-Linux?style=flat&logo=linux&color=000000" /></a></span>
+  <a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Linux-Linux?style=flat&logo=linux&color=ffffff" /></a>
+  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Linux-Linux?style=flat&logo=linux&color=000000" /></a>
 
-  <span><a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Chart.js-Chart.js?style=flat&logo=chartdotjs&color=ffffff" /></a>
-  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Chart.js-Chart.js?style=flat&logo=chartdotjs&color=000000" /></a></span>
+  <a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Chart.js-Chart.js?style=flat&logo=chartdotjs&color=ffffff" /></a>
+  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Chart.js-Chart.js?style=flat&logo=chartdotjs&color=000000" /></a>
 
-  <span><a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Android_Studio-Android_Studio?style=flat&logo=androidstudio&color=ffffff" /></a>
-  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Android_Studio-Android_Studio?style=flat&logo=androidstudio&color=000000" /></a></span>
+  <a href="#gh-light-mode-only"><img src="https://img.shields.io/badge/Android_Studio-Android_Studio?style=flat&logo=androidstudio&color=ffffff" /></a>
+  <a href="#gh-dark-mode-only"><img src="https://img.shields.io/badge/Android_Studio-Android_Studio?style=flat&logo=androidstudio&color=000000" /></a>
 
 </p>
+
 
 
 ---
@@ -99,4 +94,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=VukasinStankovic&show_icons=true&hide_border=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
   </a>
 </p>
+
 

@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss"/>
 
   <!-- Styling -->
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap"/>
 
   <!-- CMS -->
@@ -41,7 +40,7 @@
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle"/>
+  <img src="https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle&logoColor=red"/>
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
@@ -53,10 +52,12 @@
 
 
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VukasinStankovic&show_icons=true&locale=en&layout=compact" alt="VukasinStankovic" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VukasinStankovic&show_icons=true&locale=en" alt="VukasinStankovic" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VukasinStankovic&" alt="VukasinStankovic" /></p>
+
 
 

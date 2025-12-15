@@ -15,19 +15,5 @@
 ---
 ### 📖 Currently Reading
 
-<p align="center">
-  <img src="https://www.delfi.rs/_img/artikli/2014/10/dervis_i_smrt_vv.jpg" width="200"/><br/>
-  <strong>Derviš i smrt</strong><br/>
-  <em>Meša Selimović</em><br/>
-  📅 Started reading: 11.12.2025<br/>
-  <sub>Cover image: <a href="https://www.delfi.rs/">Delfi Bookstore</a></sub>
-</p>
-
-
-
-
-
-
-
-
-
+<!-- BOOKS_START -->
+<!-- BOOKS_END -->

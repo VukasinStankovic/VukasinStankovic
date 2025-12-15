@@ -17,7 +17,7 @@
 
 <!-- BOOKS_START -->
 
-<p>
+<p style="display: flex; gap: 16px; flex-wrap: wrap;">
   <img src="https://www.laguna.rs/_img/korice/4541/bogorodicina_crkva_u_parizu-viktor_igo_v.jpg" width="200"/><br/>
   <strong>Bogorodičina crkva u Parizu</strong><br/>
   <em>Viktor Igo</em><br/>
@@ -26,7 +26,7 @@
 </p>
 
 
-<p>
+<p style="display: flex; gap: 16px; flex-wrap: wrap;">
   <img src="https://www.delfi.rs/_img/artikli/2014/10/dervis_i_smrt_vv.jpg" width="200"/><br/>
   <strong>Derviš i smrt</strong><br/>
   <em>Meša Selimović</em><br/>

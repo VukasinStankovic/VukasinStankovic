@@ -17,6 +17,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=VukasinStankovic&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 📖 Trenutno čitam
+
+<p align="left">
+  <img src="https://www.delfi.rs/_img/artikli/2014/10/dervis_i_smrt_vv.jpg" alt="Derviš i smrt" width="180"/>
+</p>
+
+**Derviš i smrt**  
+✍️ *Meša Selimović*  
+📅 Početak čitanja: **11.12.2025**  
+
 
 
 

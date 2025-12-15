@@ -17,28 +17,30 @@
 
 <!-- BOOKS_START -->
 
-<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+<table>
+  <tr>
+    
+<td align="center" width="220">
+  <img src="https://www.laguna.rs/_img/korice/4541/bogorodicina_crkva_u_parizu-viktor_igo_v.jpg" width="200"/><br/>
+  <strong>Bogorodičina crkva u Parizu</strong><br/>
+  <em>Viktor Igo</em><br/>
+  📅 N/A<br/>
+  <sub>
+    <a href="https://www.delfi.rs/">Delfi</a>
+  </sub>
+</td>
 
-  <p>
-    <img src="https://www.laguna.rs/_img/korice/4541/bogorodicina_crkva_u_parizu-viktor_igo_v.jpg" width="200"/><br/>
-    <strong>Bogorodičina crkva u Parizu</strong><br/>
-    <em>Viktor Igo</em><br/>
-    📅 Started reading: N/A<br/>
-    <sub>
-      Cover image: <a href="https://www.delfi.rs/">Delfi Bookstore</a>
-    </sub>
-  </p>
+<td align="center" width="220">
+  <img src="https://www.delfi.rs/_img/artikli/2014/10/dervis_i_smrt_vv.jpg" width="200"/><br/>
+  <strong>Derviš i smrt</strong><br/>
+  <em>Meša Selimović</em><br/>
+  📅 2025-12-11<br/>
+  <sub>
+    <a href="https://www.delfi.rs/">Delfi</a>
+  </sub>
+</td>
 
-  <p>
-    <img src="https://www.delfi.rs/_img/artikli/2014/10/dervis_i_smrt_vv.jpg" width="200"/><br/>
-    <strong>Derviš i smrt</strong><br/>
-    <em>Meša Selimović</em><br/>
-    📅 Started reading: 2025-12-11<br/>
-    <sub>
-      Cover image: <a href="https://www.delfi.rs/">Delfi Bookstore</a>
-    </sub>
-  </p>
-
-</div>
+  </tr>
+</table>
 
 <!-- BOOKS_END -->

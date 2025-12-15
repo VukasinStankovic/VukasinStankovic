@@ -25,9 +25,7 @@
   <strong>Bogorodičina crkva u Parizu</strong><br/>
   <em>Viktor Igo</em><br/>
   📅 N/A<br/>
-  <sub>
-    <a href="https://www.delfi.rs/">Delfi</a>
-  </sub>
+  <sub>Cover image: <a href="https://www.delfi.rs/">Delfi Bookstore</a></sub>
 </td>
 
 <td align="center" width="220">
@@ -35,9 +33,7 @@
   <strong>Derviš i smrt</strong><br/>
   <em>Meša Selimović</em><br/>
   📅 2025-12-11<br/>
-  <sub>
-    <a href="https://www.delfi.rs/">Delfi</a>
-  </sub>
+  <sub>Cover image: <a href="https://www.delfi.rs/">Delfi Bookstore</a></sub>
 </td>
 
   </tr>

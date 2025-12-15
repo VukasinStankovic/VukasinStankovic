@@ -13,14 +13,18 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VukasinStankovic&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=VukasinStankovic&theme=gotham&hide_border=false)<br/>
 ---
-### 📖 Trenutno čitam
+### 📖 Currently Reading
 
 <p align="center">
   <img src="https://www.delfi.rs/_img/artikli/2014/10/dervis_i_smrt_vv.jpg" width="200"/><br/>
   <strong>Derviš i smrt</strong><br/>
   <em>Meša Selimović</em><br/>
-  📅 Početak: 11.12.2025
+  📅 Started reading: 11.12.2025<br/>
+  <sub>Cover image: <a href="https://www.delfi.rs/">Delfi Bookstore</a></sub>
 </p>
+
+
+
 
 
 

@@ -21,14 +21,6 @@
   <tr>
     
 <td align="center" width="220">
-  <img src="https://www.delfi.rs/_img/artikli/knjige/1/vv/delfi_knjiga_o_bambusu_vladislav_bajac.jpg" width="200"/><br/>
-  <strong>Knjiga o bambusu</strong><br/>
-  <em>Vladislav Bajac</em><br/>
-  📅 N/A<br/>
-  <sub>Cover image: <a href="https://www.delfi.rs/">Delfi Bookstore</a></sub>
-</td>
-
-<td align="center" width="220">
   <img src="https://www.delfi.rs/_img/artikli/2014/10/dervis_i_smrt_vv.jpg" width="200"/><br/>
   <strong>Derviš i smrt</strong><br/>
   <em>Meša Selimović</em><br/>
